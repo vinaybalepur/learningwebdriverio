@@ -1,0 +1,10 @@
+Data types
+* Data types are of following types
+    1. String declared as "" or ''
+    2. boolean declared as true or false
+    3. number can be int or double or float
+    3. bigint - the largest integer value in js is 9007199254740991. Anything beyond this is bigint
+    4. Object - written within {} and are of key value pairs like map of java. Or it can be an array of values written within []
+    5. undefined - If a variable is declared and not assinged any value, then it becomes undefined
+    6. empty - If a varialbe is declared and assigned with only "", then it is considred as empty and datatype will be String
+    7. date - This is also of type object and is declared as new Date("22/02/2034")
